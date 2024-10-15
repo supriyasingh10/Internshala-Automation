@@ -1,6 +1,6 @@
 module.exports = [
     {
-    "College": "Dr. Ambedkar Institute Of Technology For Hanicapped",
+    "College": "Dr. Ambedkar Institute Of Technology For Handicapped",
     "Degree" : "Bachelor of Technology (B.Tech)",
     "Stream" : "Information Technology",
     "Percentage" : "91",
